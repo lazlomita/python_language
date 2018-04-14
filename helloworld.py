@@ -1,1 +1,6 @@
-print ("Hello world in Python!!!")
+if True:
+    print ("Answer: ")
+    print ("True")
+else:
+    print ("Answer: ")
+    print ("False")
