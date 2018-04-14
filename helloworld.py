@@ -1,6 +1,1 @@
-if True:
-    print ("Answer: ")
-    print ("True")
-else:
-    print ("Answer: ")
-    print ("False")
+print ("Hello World in Python3")
